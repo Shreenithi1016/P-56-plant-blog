@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+p {
+    font-size: 80px;
+    font-variant: small-caps;
+    color: burlywood;
+}
